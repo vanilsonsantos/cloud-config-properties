@@ -1,0 +1,8 @@
+spring:
+    data:
+      mongodb:
+        database: heroku_1l2dkbsl
+        host: ds211440.mlab.com
+        port: 11440
+        username: heroku_1l2dkbsl
+        password: ENC(JQL3bQ+KemmaslbVFjgNkxoXIeaHCoqxJu7W5345wN+qIGNRiKBpmg==)
