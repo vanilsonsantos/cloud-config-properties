@@ -1,0 +1,20 @@
+info:
+  app:
+    name: Booking Synopsis Application
+    description: Application to book synopsis at VoiceBunny
+    version: 1.0.0
+
+server:
+  servlet:
+    context-path: /booking
+
+moviedb:
+  host: http://api.themoviedb.org
+  api:
+    key: ENC(Ilm4BlfZ96KSUsisBPshlfMBbTjE3BKdTQu3IXQKq9njyEWmvtyacR4D+JGEtngB)
+
+voicebunny:
+  host: https://api.voicebunny.com
+  api:
+    user: 131231
+    key: ENC(6pm34RrdY80Ep2cixtd7irircBnxZh8TF2nJeMRyj9lkQ+eFHhumS+otnKbux4Ro)
